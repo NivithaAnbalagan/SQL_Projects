@@ -1,0 +1,501 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Major,GPA
+1001,Student1,Doe,Female,2004-09-03,Physics,2.33
+1002,Student2,Doe,Female,2001-05-13,Computer Science,2.07
+1003,Student3,Doe,Male,2001-08-11,Biology,3.04
+1004,Student4,Doe,Female,1999-06-08,Computer Science,3.97
+1005,Student5,Doe,Female,2000-05-30,Physics,3.68
+1006,Student6,Doe,Female,1998-10-04,Mathematics,2.88
+1007,Student7,Doe,Male,1999-08-20,Biology,3.17
+1008,Student8,Doe,Female,1997-06-18,Mathematics,2.27
+1009,Student9,Doe,Female,2004-05-18,Physics,2.65
+1010,Student10,Doe,Male,2000-10-30,Physics,2.09
+1011,Student11,Doe,Female,2000-01-21,Biology,2.79
+1012,Student12,Doe,Female,2003-03-17,Computer Science,2.59
+1013,Student13,Doe,Male,1996-07-24,Biology,2.93
+1014,Student14,Doe,Female,1998-06-17,Computer Science,3.43
+1015,Student15,Doe,Male,2000-05-28,Computer Science,2.34
+1016,Student16,Doe,Female,2003-06-13,Biology,3.17
+1017,Student17,Doe,Female,1994-12-09,Biology,3.16
+1018,Student18,Doe,Female,1998-03-12,Physics,3.92
+1019,Student19,Doe,Male,2000-07-15,Biology,2.75
+1020,Student20,Doe,Female,1998-01-09,Computer Science,3.75
+1021,Student21,Doe,Male,2003-01-17,Biology,3.03
+1022,Student22,Doe,Female,2005-05-11,Physics,3.42
+1023,Student23,Doe,Female,2005-09-16,Biology,2.75
+1024,Student24,Doe,Male,2003-07-31,Computer Science,3.39
+1025,Student25,Doe,Female,1990-01-26,Biology,3.33
+1026,Student26,Doe,Male,1992-01-12,Computer Science,2.42
+1027,Student27,Doe,Female,2003-03-17,Computer Science,2.18
+1028,Student28,Doe,Male,2003-04-13,Biology,2.08
+1029,Student29,Doe,Female,1994-07-30,Physics,2.21
+1030,Student30,Doe,Male,2005-12-21,Physics,2.47
+1031,Student31,Doe,Female,2003-06-29,Physics,2.96
+1032,Student32,Doe,Male,1996-11-15,Biology,2.93
+1033,Student33,Doe,Male,2000-12-11,Physics,2.66
+1034,Student34,Doe,Male,1995-06-04,Physics,3.12
+1035,Student35,Doe,Male,2002-11-08,Computer Science,3.76
+1036,Student36,Doe,Male,2000-12-03,Physics,2.69
+1037,Student37,Doe,Female,1990-01-24,Computer Science,2.27
+1038,Student38,Doe,Female,2003-06-27,Physics,2.42
+1039,Student39,Doe,Female,2004-06-06,Mathematics,2.35
+1040,Student40,Doe,Female,2001-03-15,Computer Science,2.42
+1041,Student41,Doe,Female,1996-09-02,Biology,2.22
+1042,Student42,Doe,Male,1998-10-20,Mathematics,3.6
+1043,Student43,Doe,Male,1999-02-12,Mathematics,2.19
+1044,Student44,Doe,Male,2003-04-10,Computer Science,2.43
+1045,Student45,Doe,Male,2001-07-13,Physics,2.96
+1046,Student46,Doe,Male,1998-05-03,Physics,3.25
+1047,Student47,Doe,Female,2000-08-05,Mathematics,3.34
+1048,Student48,Doe,Female,1994-07-16,Computer Science,2.78
+1049,Student49,Doe,Female,2000-08-04,Mathematics,2.21
+1050,Student50,Doe,Female,1998-05-09,Mathematics,2.87
+1051,Student51,Doe,Male,1996-10-24,Biology,2.31
+1052,Student52,Doe,Female,2003-06-09,Computer Science,2.32
+1053,Student53,Doe,Male,1994-04-02,Biology,3.89
+1054,Student54,Doe,Female,2005-09-08,Mathematics,3.48
+1055,Student55,Doe,Female,1999-06-24,Computer Science,2.1
+1056,Student56,Doe,Male,1996-05-30,Computer Science,3.77
+1057,Student57,Doe,Male,1992-09-26,Computer Science,2.69
+1058,Student58,Doe,Male,2000-12-22,Computer Science,2.19
+1059,Student59,Doe,Female,1998-04-12,Computer Science,3.62
+1060,Student60,Doe,Female,2005-09-22,Computer Science,2.4
+1061,Student61,Doe,Male,1990-01-15,Biology,3.93
+1062,Student62,Doe,Male,1999-11-30,Physics,3.78
+1063,Student63,Doe,Male,1994-01-01,Computer Science,3.43
+1064,Student64,Doe,Male,1999-02-27,Biology,3.96
+1065,Student65,Doe,Male,1999-08-28,Computer Science,2.65
+1066,Student66,Doe,Female,1991-10-10,Physics,2.15
+1067,Student67,Doe,Male,2004-09-06,Computer Science,3.84
+1068,Student68,Doe,Female,1992-10-17,Biology,2.95
+1069,Student69,Doe,Male,2005-06-24,Computer Science,2.09
+1070,Student70,Doe,Female,1991-12-11,Physics,3.36
+1071,Student71,Doe,Female,1998-03-04,Mathematics,2.07
+1072,Student72,Doe,Male,1999-05-27,Biology,2.13
+1073,Student73,Doe,Male,1990-10-12,Physics,3.77
+1074,Student74,Doe,Female,2003-03-29,Biology,3.8
+1075,Student75,Doe,Female,1994-11-16,Computer Science,2.73
+1076,Student76,Doe,Female,2002-03-19,Biology,3.65
+1077,Student77,Doe,Male,2000-04-22,Biology,2.91
+1078,Student78,Doe,Female,2003-05-07,Biology,2.91
+1079,Student79,Doe,Male,1996-06-07,Biology,3.18
+1080,Student80,Doe,Male,1994-07-28,Mathematics,2.19
+1081,Student81,Doe,Male,2004-02-22,Biology,3.92
+1082,Student82,Doe,Male,1994-03-19,Physics,2.97
+1083,Student83,Doe,Male,1995-07-26,Physics,3.34
+1084,Student84,Doe,Female,2003-11-27,Mathematics,2.56
+1085,Student85,Doe,Female,1997-07-30,Biology,3.82
+1086,Student86,Doe,Male,1993-11-21,Mathematics,3.8
+1087,Student87,Doe,Male,1990-12-23,Biology,2.89
+1088,Student88,Doe,Female,1995-10-19,Physics,3.16
+1089,Student89,Doe,Male,1991-01-03,Mathematics,3.13
+1090,Student90,Doe,Male,1998-01-20,Mathematics,3.27
+1091,Student91,Doe,Male,2005-06-10,Physics,2.5
+1092,Student92,Doe,Male,1990-04-22,Biology,3.3
+1093,Student93,Doe,Female,2002-05-13,Mathematics,2.75
+1094,Student94,Doe,Male,1997-03-08,Physics,3.63
+1095,Student95,Doe,Female,1998-05-15,Computer Science,2.78
+1096,Student96,Doe,Female,2005-06-20,Computer Science,2.95
+1097,Student97,Doe,Female,2003-02-27,Mathematics,3.94
+1098,Student98,Doe,Male,2003-03-28,Physics,3.54
+1099,Student99,Doe,Female,2002-12-16,Computer Science,2.04
+1100,Student100,Doe,Male,2005-09-12,Mathematics,2.68
+1101,Student101,Doe,Male,1999-06-25,Biology,3.01
+1102,Student102,Doe,Male,2001-12-31,Biology,2.47
+1103,Student103,Doe,Male,1999-07-13,Physics,2.07
+1104,Student104,Doe,Female,1993-11-03,Biology,3.2
+1105,Student105,Doe,Female,1993-06-20,Mathematics,2.31
+1106,Student106,Doe,Female,1997-05-19,Computer Science,2.97
+1107,Student107,Doe,Female,1997-05-05,Biology,2.76
+1108,Student108,Doe,Male,1995-12-23,Mathematics,3.23
+1109,Student109,Doe,Female,2000-11-15,Biology,2.65
+1110,Student110,Doe,Female,1994-06-24,Computer Science,2.85
+1111,Student111,Doe,Male,1997-03-13,Computer Science,3.41
+1112,Student112,Doe,Male,1991-09-01,Physics,3.66
+1113,Student113,Doe,Female,1992-09-29,Physics,3.92
+1114,Student114,Doe,Male,1996-07-07,Computer Science,2.42
+1115,Student115,Doe,Female,1992-12-19,Physics,3.05
+1116,Student116,Doe,Female,1990-11-23,Physics,3.82
+1117,Student117,Doe,Female,2001-12-02,Physics,2.06
+1118,Student118,Doe,Female,1994-12-01,Mathematics,2.67
+1119,Student119,Doe,Male,2001-06-03,Computer Science,2.54
+1120,Student120,Doe,Female,1998-10-24,Computer Science,2.63
+1121,Student121,Doe,Male,1990-02-27,Biology,3.77
+1122,Student122,Doe,Female,2005-12-20,Physics,2.23
+1123,Student123,Doe,Male,1995-01-18,Computer Science,2.34
+1124,Student124,Doe,Female,1994-11-03,Computer Science,2.93
+1125,Student125,Doe,Male,2003-07-05,Biology,3.4
+1126,Student126,Doe,Male,1992-09-30,Biology,3.12
+1127,Student127,Doe,Female,1992-06-14,Biology,3.1
+1128,Student128,Doe,Male,1992-03-24,Computer Science,3.35
+1129,Student129,Doe,Female,1997-03-11,Physics,3.79
+1130,Student130,Doe,Female,1998-01-20,Biology,3.54
+1131,Student131,Doe,Female,1995-06-04,Biology,2.33
+1132,Student132,Doe,Female,2004-06-27,Biology,3.22
+1133,Student133,Doe,Male,2005-06-20,Mathematics,3.27
+1134,Student134,Doe,Female,2001-08-17,Physics,3.23
+1135,Student135,Doe,Male,2003-11-15,Mathematics,2.74
+1136,Student136,Doe,Male,1997-03-19,Computer Science,2.69
+1137,Student137,Doe,Female,2002-11-21,Computer Science,2.28
+1138,Student138,Doe,Female,1997-07-24,Mathematics,2.86
+1139,Student139,Doe,Male,1999-10-05,Mathematics,3.96
+1140,Student140,Doe,Female,2003-07-23,Physics,2.51
+1141,Student141,Doe,Male,2001-12-17,Mathematics,2.51
+1142,Student142,Doe,Male,1996-04-02,Biology,2.39
+1143,Student143,Doe,Male,1990-06-21,Biology,3.74
+1144,Student144,Doe,Male,2000-12-03,Mathematics,2.27
+1145,Student145,Doe,Female,2005-03-11,Computer Science,3.65
+1146,Student146,Doe,Female,2005-05-31,Physics,2.44
+1147,Student147,Doe,Male,1999-04-03,Biology,2.46
+1148,Student148,Doe,Female,1993-10-26,Biology,3.41
+1149,Student149,Doe,Male,1999-02-28,Biology,2.78
+1150,Student150,Doe,Male,2003-09-05,Physics,2.1
+1151,Student151,Doe,Male,1995-06-08,Computer Science,2.09
+1152,Student152,Doe,Female,1994-05-11,Physics,3.86
+1153,Student153,Doe,Female,1993-11-17,Mathematics,3.92
+1154,Student154,Doe,Male,1991-05-07,Biology,2.79
+1155,Student155,Doe,Female,1991-01-19,Biology,2.25
+1156,Student156,Doe,Female,2001-12-19,Physics,2.61
+1157,Student157,Doe,Male,1997-07-22,Computer Science,3.58
+1158,Student158,Doe,Male,1994-12-04,Computer Science,3.24
+1159,Student159,Doe,Female,2004-07-09,Biology,3.14
+1160,Student160,Doe,Female,2000-08-04,Biology,2.92
+1161,Student161,Doe,Male,2005-02-26,Computer Science,2.53
+1162,Student162,Doe,Male,1993-12-12,Physics,3.98
+1163,Student163,Doe,Male,1990-10-09,Computer Science,2.01
+1164,Student164,Doe,Female,1995-06-07,Computer Science,3.34
+1165,Student165,Doe,Female,1998-08-26,Biology,2.11
+1166,Student166,Doe,Female,1996-04-05,Physics,2.18
+1167,Student167,Doe,Male,2000-01-09,Mathematics,2.33
+1168,Student168,Doe,Female,1991-10-14,Computer Science,2.67
+1169,Student169,Doe,Male,1993-09-13,Physics,2.48
+1170,Student170,Doe,Female,1996-11-02,Biology,3.36
+1171,Student171,Doe,Male,1992-03-12,Physics,3.52
+1172,Student172,Doe,Male,1999-08-05,Mathematics,2.76
+1173,Student173,Doe,Female,1998-10-20,Computer Science,3.03
+1174,Student174,Doe,Male,2003-07-26,Biology,2.06
+1175,Student175,Doe,Female,1995-10-22,Biology,2.04
+1176,Student176,Doe,Male,2000-07-14,Mathematics,2.99
+1177,Student177,Doe,Male,2000-05-25,Mathematics,3.32
+1178,Student178,Doe,Female,1993-09-09,Physics,3.11
+1179,Student179,Doe,Female,1995-02-24,Computer Science,2.37
+1180,Student180,Doe,Female,1992-07-09,Biology,3.94
+1181,Student181,Doe,Female,1997-12-22,Biology,3.21
+1182,Student182,Doe,Female,1996-06-11,Physics,3.78
+1183,Student183,Doe,Male,2001-08-07,Biology,2.0
+1184,Student184,Doe,Female,1995-01-03,Biology,4.0
+1185,Student185,Doe,Female,2005-05-20,Mathematics,3.44
+1186,Student186,Doe,Female,2003-01-12,Physics,3.92
+1187,Student187,Doe,Male,2001-08-19,Physics,3.65
+1188,Student188,Doe,Female,1997-12-03,Computer Science,2.62
+1189,Student189,Doe,Female,2005-12-15,Mathematics,3.14
+1190,Student190,Doe,Male,1995-01-18,Biology,2.81
+1191,Student191,Doe,Female,1994-06-21,Mathematics,2.78
+1192,Student192,Doe,Female,1994-07-20,Mathematics,3.99
+1193,Student193,Doe,Female,1990-04-21,Biology,2.33
+1194,Student194,Doe,Male,1997-10-20,Biology,2.29
+1195,Student195,Doe,Female,2003-09-20,Physics,3.83
+1196,Student196,Doe,Female,2001-10-02,Physics,2.32
+1197,Student197,Doe,Male,1995-06-13,Mathematics,2.34
+1198,Student198,Doe,Male,1990-07-03,Computer Science,2.29
+1199,Student199,Doe,Male,2002-11-09,Mathematics,2.46
+1200,Student200,Doe,Female,2002-08-19,Biology,2.77
+1201,Student201,Doe,Female,1992-03-17,Computer Science,3.36
+1202,Student202,Doe,Female,2003-05-06,Physics,2.97
+1203,Student203,Doe,Male,2004-08-13,Physics,2.47
+1204,Student204,Doe,Male,1993-10-09,Biology,3.0
+1205,Student205,Doe,Female,1992-03-16,Mathematics,2.78
+1206,Student206,Doe,Female,2005-04-17,Mathematics,2.38
+1207,Student207,Doe,Male,2002-07-30,Computer Science,2.22
+1208,Student208,Doe,Female,1992-10-08,Mathematics,3.97
+1209,Student209,Doe,Female,2004-01-11,Biology,2.6
+1210,Student210,Doe,Female,1995-09-16,Physics,2.59
+1211,Student211,Doe,Female,1995-03-04,Physics,2.77
+1212,Student212,Doe,Male,1997-11-16,Computer Science,3.03
+1213,Student213,Doe,Male,2002-08-30,Biology,3.87
+1214,Student214,Doe,Female,1992-06-29,Biology,2.81
+1215,Student215,Doe,Female,1996-01-10,Computer Science,3.57
+1216,Student216,Doe,Female,1992-02-02,Biology,2.56
+1217,Student217,Doe,Female,1991-05-12,Mathematics,3.28
+1218,Student218,Doe,Male,1991-03-02,Mathematics,2.22
+1219,Student219,Doe,Female,2004-12-05,Biology,3.21
+1220,Student220,Doe,Male,2002-05-29,Computer Science,3.34
+1221,Student221,Doe,Female,1994-04-20,Mathematics,3.51
+1222,Student222,Doe,Male,2000-12-25,Physics,3.58
+1223,Student223,Doe,Female,1993-11-29,Computer Science,2.8
+1224,Student224,Doe,Male,1999-06-28,Computer Science,3.85
+1225,Student225,Doe,Female,1999-09-15,Biology,2.88
+1226,Student226,Doe,Male,1996-07-22,Physics,2.21
+1227,Student227,Doe,Male,1999-11-05,Biology,3.93
+1228,Student228,Doe,Male,1995-08-27,Physics,3.71
+1229,Student229,Doe,Female,1990-03-31,Physics,3.15
+1230,Student230,Doe,Female,1991-07-25,Mathematics,2.55
+1231,Student231,Doe,Female,1999-02-11,Biology,2.01
+1232,Student232,Doe,Male,2005-02-18,Biology,2.17
+1233,Student233,Doe,Male,1992-10-28,Biology,3.5
+1234,Student234,Doe,Male,1997-10-31,Computer Science,3.77
+1235,Student235,Doe,Female,1999-05-12,Computer Science,2.94
+1236,Student236,Doe,Female,1999-05-15,Mathematics,2.82
+1237,Student237,Doe,Male,2001-08-06,Mathematics,3.74
+1238,Student238,Doe,Male,1999-10-26,Computer Science,2.12
+1239,Student239,Doe,Male,1998-10-05,Mathematics,3.3
+1240,Student240,Doe,Male,2003-08-16,Physics,2.59
+1241,Student241,Doe,Male,1996-07-09,Physics,2.28
+1242,Student242,Doe,Female,1996-10-12,Computer Science,3.4
+1243,Student243,Doe,Female,1990-02-14,Biology,2.33
+1244,Student244,Doe,Female,1996-05-01,Biology,3.98
+1245,Student245,Doe,Female,2000-03-11,Biology,2.45
+1246,Student246,Doe,Male,2005-11-29,Mathematics,2.66
+1247,Student247,Doe,Female,1997-07-16,Computer Science,3.4
+1248,Student248,Doe,Male,2002-07-10,Mathematics,3.47
+1249,Student249,Doe,Female,1998-04-14,Physics,2.19
+1250,Student250,Doe,Female,1990-03-03,Computer Science,2.38
+1251,Student251,Doe,Male,1996-03-09,Physics,2.25
+1252,Student252,Doe,Female,2001-08-14,Mathematics,3.5
+1253,Student253,Doe,Male,1999-08-30,Biology,3.63
+1254,Student254,Doe,Female,1994-10-03,Biology,2.83
+1255,Student255,Doe,Male,2005-12-22,Physics,3.88
+1256,Student256,Doe,Female,2002-04-03,Biology,2.94
+1257,Student257,Doe,Female,1997-06-16,Biology,3.41
+1258,Student258,Doe,Female,1998-08-19,Mathematics,3.85
+1259,Student259,Doe,Female,1996-02-19,Computer Science,2.1
+1260,Student260,Doe,Female,1994-01-16,Biology,2.02
+1261,Student261,Doe,Female,1990-07-04,Mathematics,2.46
+1262,Student262,Doe,Male,2004-08-22,Biology,2.93
+1263,Student263,Doe,Male,1997-07-21,Computer Science,2.07
+1264,Student264,Doe,Female,2005-12-07,Computer Science,3.79
+1265,Student265,Doe,Male,1993-10-13,Physics,2.97
+1266,Student266,Doe,Female,1993-03-04,Biology,3.62
+1267,Student267,Doe,Male,2001-03-23,Physics,2.92
+1268,Student268,Doe,Female,2003-05-03,Biology,3.25
+1269,Student269,Doe,Male,1994-10-26,Physics,3.48
+1270,Student270,Doe,Male,2001-02-23,Mathematics,2.45
+1271,Student271,Doe,Female,1995-01-02,Physics,2.76
+1272,Student272,Doe,Female,2002-08-10,Biology,2.64
+1273,Student273,Doe,Male,1992-09-27,Computer Science,3.25
+1274,Student274,Doe,Female,1996-11-15,Biology,2.79
+1275,Student275,Doe,Male,1996-05-09,Physics,2.81
+1276,Student276,Doe,Male,1990-02-09,Biology,3.17
+1277,Student277,Doe,Female,2000-08-14,Biology,2.24
+1278,Student278,Doe,Female,1992-05-06,Physics,3.36
+1279,Student279,Doe,Male,1997-03-31,Mathematics,3.58
+1280,Student280,Doe,Female,1997-06-19,Physics,3.75
+1281,Student281,Doe,Male,2003-11-27,Physics,3.44
+1282,Student282,Doe,Male,1998-06-17,Physics,2.8
+1283,Student283,Doe,Female,1992-06-10,Computer Science,3.21
+1284,Student284,Doe,Female,2002-10-08,Mathematics,2.08
+1285,Student285,Doe,Male,2000-11-14,Physics,2.7
+1286,Student286,Doe,Female,1993-05-31,Computer Science,2.52
+1287,Student287,Doe,Female,2005-04-06,Mathematics,2.98
+1288,Student288,Doe,Female,1992-10-09,Mathematics,2.71
+1289,Student289,Doe,Male,1990-05-17,Physics,3.9
+1290,Student290,Doe,Male,2004-06-20,Biology,3.52
+1291,Student291,Doe,Male,2003-04-14,Physics,3.61
+1292,Student292,Doe,Male,1998-10-02,Biology,3.51
+1293,Student293,Doe,Female,1993-07-16,Mathematics,3.99
+1294,Student294,Doe,Male,1996-12-06,Computer Science,2.68
+1295,Student295,Doe,Male,1999-04-13,Computer Science,2.8
+1296,Student296,Doe,Female,2001-04-12,Physics,3.44
+1297,Student297,Doe,Female,1990-11-20,Biology,3.5
+1298,Student298,Doe,Male,1990-03-04,Biology,2.74
+1299,Student299,Doe,Female,1991-07-13,Computer Science,2.52
+1300,Student300,Doe,Female,1994-04-26,Computer Science,2.28
+1301,Student301,Doe,Male,1996-02-09,Computer Science,2.21
+1302,Student302,Doe,Female,1998-08-06,Physics,2.53
+1303,Student303,Doe,Female,1992-12-30,Biology,3.21
+1304,Student304,Doe,Male,1994-10-23,Physics,3.84
+1305,Student305,Doe,Male,1997-08-04,Mathematics,3.66
+1306,Student306,Doe,Male,1995-10-28,Computer Science,2.8
+1307,Student307,Doe,Female,1994-08-24,Physics,2.67
+1308,Student308,Doe,Male,1995-12-01,Biology,3.17
+1309,Student309,Doe,Female,1999-02-15,Biology,3.56
+1310,Student310,Doe,Female,1998-07-13,Mathematics,2.65
+1311,Student311,Doe,Female,2004-08-18,Mathematics,3.88
+1312,Student312,Doe,Male,1995-02-11,Computer Science,3.17
+1313,Student313,Doe,Male,1998-04-15,Mathematics,3.7
+1314,Student314,Doe,Female,1996-01-28,Mathematics,2.73
+1315,Student315,Doe,Female,1996-10-14,Mathematics,3.18
+1316,Student316,Doe,Male,1994-02-17,Mathematics,3.96
+1317,Student317,Doe,Female,1991-11-19,Mathematics,2.6
+1318,Student318,Doe,Male,1998-12-03,Computer Science,3.61
+1319,Student319,Doe,Male,1998-11-14,Computer Science,3.46
+1320,Student320,Doe,Female,2004-01-07,Mathematics,3.87
+1321,Student321,Doe,Male,1991-01-14,Biology,2.3
+1322,Student322,Doe,Female,2001-04-02,Physics,2.44
+1323,Student323,Doe,Male,2005-10-13,Physics,3.81
+1324,Student324,Doe,Female,1997-12-24,Computer Science,2.76
+1325,Student325,Doe,Male,2004-05-15,Biology,2.55
+1326,Student326,Doe,Male,2003-05-18,Biology,2.57
+1327,Student327,Doe,Male,1998-12-27,Physics,3.67
+1328,Student328,Doe,Female,1996-02-17,Biology,2.09
+1329,Student329,Doe,Male,1992-01-11,Computer Science,2.1
+1330,Student330,Doe,Female,1999-08-02,Computer Science,2.84
+1331,Student331,Doe,Male,2000-01-06,Physics,2.95
+1332,Student332,Doe,Male,2004-11-06,Computer Science,3.75
+1333,Student333,Doe,Male,2003-05-25,Computer Science,3.5
+1334,Student334,Doe,Male,2001-10-03,Physics,2.62
+1335,Student335,Doe,Male,2000-04-05,Mathematics,3.05
+1336,Student336,Doe,Male,2005-11-18,Computer Science,2.86
+1337,Student337,Doe,Male,1994-05-05,Mathematics,2.06
+1338,Student338,Doe,Female,1990-10-29,Biology,2.41
+1339,Student339,Doe,Male,2001-05-17,Biology,3.01
+1340,Student340,Doe,Female,1996-03-19,Physics,2.91
+1341,Student341,Doe,Male,1995-04-11,Computer Science,3.13
+1342,Student342,Doe,Male,2003-05-25,Physics,2.58
+1343,Student343,Doe,Female,2002-08-31,Physics,3.68
+1344,Student344,Doe,Male,2005-03-30,Physics,3.23
+1345,Student345,Doe,Male,2003-07-15,Computer Science,3.05
+1346,Student346,Doe,Male,1991-09-05,Mathematics,2.07
+1347,Student347,Doe,Female,2002-06-06,Biology,2.31
+1348,Student348,Doe,Female,1999-08-27,Mathematics,2.06
+1349,Student349,Doe,Male,1994-06-20,Biology,2.83
+1350,Student350,Doe,Male,1997-10-03,Mathematics,2.74
+1351,Student351,Doe,Female,1995-06-12,Physics,2.83
+1352,Student352,Doe,Female,2003-04-17,Physics,2.72
+1353,Student353,Doe,Male,2001-02-10,Computer Science,2.94
+1354,Student354,Doe,Female,1995-07-18,Mathematics,2.47
+1355,Student355,Doe,Female,2002-03-27,Computer Science,2.88
+1356,Student356,Doe,Male,2003-05-24,Computer Science,3.39
+1357,Student357,Doe,Female,2002-07-26,Computer Science,3.92
+1358,Student358,Doe,Female,2000-04-22,Physics,2.85
+1359,Student359,Doe,Male,2001-03-17,Computer Science,2.19
+1360,Student360,Doe,Male,1998-11-11,Physics,3.23
+1361,Student361,Doe,Male,2002-10-26,Biology,2.09
+1362,Student362,Doe,Female,2004-02-13,Physics,3.6
+1363,Student363,Doe,Male,2001-04-27,Biology,3.23
+1364,Student364,Doe,Male,1991-12-09,Computer Science,3.89
+1365,Student365,Doe,Female,1998-08-29,Mathematics,2.77
+1366,Student366,Doe,Male,1995-12-10,Mathematics,2.45
+1367,Student367,Doe,Female,2001-04-26,Physics,2.91
+1368,Student368,Doe,Female,2003-06-21,Biology,2.15
+1369,Student369,Doe,Female,1990-05-09,Biology,3.49
+1370,Student370,Doe,Female,1999-04-16,Mathematics,2.07
+1371,Student371,Doe,Female,1996-03-29,Mathematics,3.19
+1372,Student372,Doe,Male,1995-10-11,Computer Science,2.17
+1373,Student373,Doe,Male,2003-01-01,Mathematics,2.68
+1374,Student374,Doe,Male,2005-08-27,Physics,3.9
+1375,Student375,Doe,Male,1998-02-20,Biology,3.49
+1376,Student376,Doe,Male,1993-02-26,Biology,3.28
+1377,Student377,Doe,Female,1998-12-07,Mathematics,3.31
+1378,Student378,Doe,Female,1998-05-16,Physics,3.88
+1379,Student379,Doe,Female,1992-05-30,Biology,3.6
+1380,Student380,Doe,Female,2001-09-16,Physics,2.66
+1381,Student381,Doe,Male,1992-11-16,Mathematics,2.17
+1382,Student382,Doe,Female,2000-02-02,Biology,2.41
+1383,Student383,Doe,Male,2002-08-06,Mathematics,2.93
+1384,Student384,Doe,Female,1998-02-01,Physics,3.6
+1385,Student385,Doe,Male,1996-03-29,Computer Science,3.15
+1386,Student386,Doe,Male,2000-02-11,Physics,2.33
+1387,Student387,Doe,Female,1990-02-01,Physics,2.05
+1388,Student388,Doe,Male,1990-09-23,Computer Science,3.23
+1389,Student389,Doe,Female,2005-09-11,Biology,3.19
+1390,Student390,Doe,Male,2003-03-17,Physics,3.08
+1391,Student391,Doe,Male,1995-11-19,Mathematics,2.49
+1392,Student392,Doe,Female,1995-01-06,Physics,3.3
+1393,Student393,Doe,Female,1997-11-25,Mathematics,3.9
+1394,Student394,Doe,Male,1996-03-30,Computer Science,3.78
+1395,Student395,Doe,Male,1993-08-30,Computer Science,3.75
+1396,Student396,Doe,Female,1996-08-17,Mathematics,2.65
+1397,Student397,Doe,Female,1997-03-25,Computer Science,2.42
+1398,Student398,Doe,Female,2005-08-30,Computer Science,2.84
+1399,Student399,Doe,Female,2004-07-08,Computer Science,3.85
+1400,Student400,Doe,Male,1998-01-13,Mathematics,3.15
+1401,Student401,Doe,Female,2002-08-10,Computer Science,2.33
+1402,Student402,Doe,Female,2005-11-04,Mathematics,3.0
+1403,Student403,Doe,Male,1997-05-23,Mathematics,3.51
+1404,Student404,Doe,Female,1997-03-12,Physics,2.12
+1405,Student405,Doe,Female,1993-03-24,Computer Science,2.68
+1406,Student406,Doe,Female,1991-05-03,Physics,2.45
+1407,Student407,Doe,Male,1996-06-10,Computer Science,2.05
+1408,Student408,Doe,Female,1990-02-22,Biology,2.65
+1409,Student409,Doe,Male,1997-07-05,Computer Science,2.75
+1410,Student410,Doe,Male,1997-11-16,Computer Science,3.82
+1411,Student411,Doe,Male,2005-01-28,Computer Science,3.41
+1412,Student412,Doe,Male,1990-08-10,Computer Science,2.82
+1413,Student413,Doe,Female,1993-11-07,Mathematics,2.5
+1414,Student414,Doe,Female,1992-07-17,Biology,2.09
+1415,Student415,Doe,Male,1999-06-01,Mathematics,3.78
+1416,Student416,Doe,Male,1999-02-26,Physics,2.77
+1417,Student417,Doe,Male,1993-06-15,Physics,3.62
+1418,Student418,Doe,Female,1995-05-11,Physics,2.1
+1419,Student419,Doe,Male,1993-04-04,Computer Science,3.27
+1420,Student420,Doe,Female,1991-07-12,Mathematics,3.21
+1421,Student421,Doe,Female,1991-02-03,Mathematics,3.49
+1422,Student422,Doe,Male,1995-11-10,Mathematics,2.05
+1423,Student423,Doe,Female,2004-09-28,Mathematics,3.8
+1424,Student424,Doe,Male,1994-02-23,Physics,3.68
+1425,Student425,Doe,Male,1999-05-27,Computer Science,3.76
+1426,Student426,Doe,Female,2000-11-19,Biology,3.67
+1427,Student427,Doe,Male,1999-10-20,Mathematics,3.37
+1428,Student428,Doe,Female,1991-08-25,Physics,3.84
+1429,Student429,Doe,Male,1992-12-30,Computer Science,3.19
+1430,Student430,Doe,Female,2001-03-29,Mathematics,3.38
+1431,Student431,Doe,Female,2005-06-21,Physics,3.16
+1432,Student432,Doe,Female,1998-05-08,Biology,2.63
+1433,Student433,Doe,Male,2002-12-13,Computer Science,3.65
+1434,Student434,Doe,Female,2001-07-04,Physics,3.98
+1435,Student435,Doe,Female,1997-09-17,Biology,3.44
+1436,Student436,Doe,Female,1991-08-29,Biology,2.17
+1437,Student437,Doe,Female,2000-02-29,Mathematics,2.42
+1438,Student438,Doe,Female,2001-01-26,Biology,3.36
+1439,Student439,Doe,Male,2003-03-09,Computer Science,2.23
+1440,Student440,Doe,Female,2005-09-18,Computer Science,2.68
+1441,Student441,Doe,Female,2001-01-30,Physics,2.18
+1442,Student442,Doe,Female,1999-07-05,Biology,2.9
+1443,Student443,Doe,Male,2003-09-07,Physics,3.15
+1444,Student444,Doe,Female,2002-02-12,Mathematics,2.23
+1445,Student445,Doe,Male,1996-01-07,Mathematics,3.68
+1446,Student446,Doe,Female,2003-07-12,Mathematics,2.03
+1447,Student447,Doe,Female,1993-10-17,Biology,2.5
+1448,Student448,Doe,Female,1992-11-26,Computer Science,2.65
+1449,Student449,Doe,Female,1995-01-09,Biology,3.24
+1450,Student450,Doe,Female,1996-11-14,Mathematics,3.94
+1451,Student451,Doe,Male,1993-05-08,Computer Science,3.2
+1452,Student452,Doe,Male,1995-04-17,Biology,2.39
+1453,Student453,Doe,Female,1998-06-29,Physics,3.01
+1454,Student454,Doe,Male,1997-03-07,Computer Science,2.48
+1455,Student455,Doe,Male,1998-11-13,Physics,2.24
+1456,Student456,Doe,Female,1997-08-26,Biology,3.13
+1457,Student457,Doe,Male,2002-09-13,Biology,3.16
+1458,Student458,Doe,Female,1992-03-11,Physics,2.33
+1459,Student459,Doe,Female,1999-07-10,Computer Science,3.31
+1460,Student460,Doe,Male,1999-02-16,Mathematics,2.41
+1461,Student461,Doe,Female,1991-10-12,Physics,3.67
+1462,Student462,Doe,Male,1990-02-12,Biology,3.22
+1463,Student463,Doe,Female,1996-01-09,Mathematics,2.49
+1464,Student464,Doe,Female,2000-07-21,Computer Science,3.08
+1465,Student465,Doe,Male,1996-12-09,Computer Science,3.82
+1466,Student466,Doe,Male,1996-04-17,Computer Science,3.62
+1467,Student467,Doe,Male,1990-03-18,Mathematics,3.57
+1468,Student468,Doe,Male,1996-01-04,Physics,2.43
+1469,Student469,Doe,Female,2001-02-10,Biology,3.68
+1470,Student470,Doe,Male,2000-07-29,Computer Science,2.46
+1471,Student471,Doe,Male,1999-07-06,Biology,2.1
+1472,Student472,Doe,Male,2000-07-13,Biology,3.1
+1473,Student473,Doe,Female,1997-08-23,Biology,3.4
+1474,Student474,Doe,Male,1997-04-25,Biology,2.32
+1475,Student475,Doe,Male,1995-11-08,Physics,2.51
+1476,Student476,Doe,Female,2000-06-16,Computer Science,3.36
+1477,Student477,Doe,Male,2005-11-29,Mathematics,3.84
+1478,Student478,Doe,Female,1992-03-03,Biology,3.68
+1479,Student479,Doe,Male,1997-11-30,Physics,2.26
+1480,Student480,Doe,Male,1991-08-12,Computer Science,2.66
+1481,Student481,Doe,Male,1993-01-29,Computer Science,3.17
+1482,Student482,Doe,Male,1994-04-01,Biology,3.81
+1483,Student483,Doe,Female,1999-11-10,Mathematics,2.22
+1484,Student484,Doe,Female,2004-11-13,Physics,3.27
+1485,Student485,Doe,Male,1997-02-01,Physics,3.83
+1486,Student486,Doe,Male,2000-06-22,Physics,2.25
+1487,Student487,Doe,Female,1998-08-23,Biology,2.83
+1488,Student488,Doe,Male,1998-07-21,Biology,2.14
+1489,Student489,Doe,Female,1998-08-30,Mathematics,3.53
+1490,Student490,Doe,Female,2002-08-14,Physics,3.87
+1491,Student491,Doe,Male,1996-01-15,Computer Science,3.39
+1492,Student492,Doe,Male,1996-01-21,Biology,3.9
+1493,Student493,Doe,Male,1996-10-04,Physics,3.96
+1494,Student494,Doe,Female,1991-09-04,Biology,3.42
+1495,Student495,Doe,Female,1990-01-28,Computer Science,2.49
+1496,Student496,Doe,Male,1995-05-05,Mathematics,2.1
+1497,Student497,Doe,Male,2003-05-24,Computer Science,2.55
+1498,Student498,Doe,Female,1991-07-28,Biology,3.53
+1499,Student499,Doe,Female,2003-11-11,Mathematics,3.47
+1500,Student500,Doe,Female,2004-10-03,Computer Science,2.85

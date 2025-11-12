@@ -1,0 +1,51 @@
+CourseID,CourseName,Department,Credits,Instructor
+COURSE1,Course 1,Mathematics,2,Instructor 1
+COURSE2,Course 2,Physics,4,Instructor 2
+COURSE3,Course 3,Computer Science,2,Instructor 3
+COURSE4,Course 4,Biology,4,Instructor 4
+COURSE5,Course 5,Mathematics,4,Instructor 5
+COURSE6,Course 6,Computer Science,2,Instructor 6
+COURSE7,Course 7,Mathematics,4,Instructor 7
+COURSE8,Course 8,Physics,3,Instructor 8
+COURSE9,Course 9,Biology,1,Instructor 9
+COURSE10,Course 10,Biology,3,Instructor 10
+COURSE11,Course 11,Biology,2,Instructor 11
+COURSE12,Course 12,Mathematics,1,Instructor 12
+COURSE13,Course 13,Physics,2,Instructor 13
+COURSE14,Course 14,Computer Science,4,Instructor 14
+COURSE15,Course 15,Biology,1,Instructor 15
+COURSE16,Course 16,Biology,4,Instructor 16
+COURSE17,Course 17,Physics,1,Instructor 17
+COURSE18,Course 18,Physics,3,Instructor 18
+COURSE19,Course 19,Biology,4,Instructor 19
+COURSE20,Course 20,Computer Science,1,Instructor 20
+COURSE21,Course 21,Computer Science,4,Instructor 21
+COURSE22,Course 22,Biology,2,Instructor 22
+COURSE23,Course 23,Computer Science,1,Instructor 23
+COURSE24,Course 24,Physics,4,Instructor 24
+COURSE25,Course 25,Biology,1,Instructor 25
+COURSE26,Course 26,Biology,2,Instructor 26
+COURSE27,Course 27,Biology,2,Instructor 27
+COURSE28,Course 28,Physics,1,Instructor 28
+COURSE29,Course 29,Mathematics,1,Instructor 29
+COURSE30,Course 30,Computer Science,3,Instructor 30
+COURSE31,Course 31,Computer Science,1,Instructor 31
+COURSE32,Course 32,Computer Science,4,Instructor 32
+COURSE33,Course 33,Biology,4,Instructor 33
+COURSE34,Course 34,Mathematics,3,Instructor 34
+COURSE35,Course 35,Computer Science,4,Instructor 35
+COURSE36,Course 36,Computer Science,4,Instructor 36
+COURSE37,Course 37,Biology,4,Instructor 37
+COURSE38,Course 38,Physics,2,Instructor 38
+COURSE39,Course 39,Physics,2,Instructor 39
+COURSE40,Course 40,Physics,2,Instructor 40
+COURSE41,Course 41,Biology,2,Instructor 41
+COURSE42,Course 42,Biology,3,Instructor 42
+COURSE43,Course 43,Physics,3,Instructor 43
+COURSE44,Course 44,Mathematics,3,Instructor 44
+COURSE45,Course 45,Computer Science,4,Instructor 45
+COURSE46,Course 46,Physics,3,Instructor 46
+COURSE47,Course 47,Mathematics,2,Instructor 47
+COURSE48,Course 48,Computer Science,3,Instructor 48
+COURSE49,Course 49,Computer Science,4,Instructor 49
+COURSE50,Course 50,Computer Science,4,Instructor 50
