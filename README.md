@@ -17,7 +17,8 @@ SELECT COUNT(*) AS NULL_VALUE FROM ATTENDANCE
                  DATE IS NULL or
                  ATTENDANCESTATUS IS NULL;
 ````
-            <img width="116" height="49" alt="image" src="https://github.com/user-attachments/assets/6029a7a0-2922-4b87-812a-d1bd140662ce" />
+      <img width="136" height="59" alt="image" src="https://github.com/user-attachments/assets/cdeebd69-fb1c-4690-a663-deb643f4d3f9" />
+
 
          
                       
