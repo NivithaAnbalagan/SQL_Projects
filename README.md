@@ -72,3 +72,105 @@ SELECT COUNT(*) AS NULL_VALUE FROM STUDENTS WHERE STUDENTID IS NULL or
                                MAJOR IS NULL or
                                GPA IS NULL;
 ```
+# Column wise Null values
+Query
+``` sql
+SELECT 
+       SUM(CASE WHEN ENROLLMENTID IS NULL THEN 1 ELSE 0 END) AS ENROLLEMNTID,
+       SUM(CASE WHEN STUDENTID IS NULL THEN 1 ELSE 0 END) AS STUDENTID,
+       SUM(CASE WHEN COURSEID IS NULL THEN 1 ELSE 0 END) AS COURSEID,
+       SUM(CASE WHEN SEMESTER IS NULL THEN 1 ELSE 0 END) AS SEMESTER,
+       SUM(CASE WHEN YEAR IS NULL THEN 1 ELSE 0 END) AS YEAR,
+       SUM(CASE WHEN GRADE IS NULL THEN 1 ELSE 0 END) AS GRADE 
+       FROM ENROLLMENTS;
+```
+# Checking the duplicate values
+Query
+``` sql
+SELECT ATTENDANCEID,COUNT(*) AS DUPLICATES FROM ATTENDANCE 
+                             GROUP BY ATTENDANCEID
+                             HAVING COUNT(*) > 1;
+                             
+SELECT COURSEID,COUNT(*) AS DUPLICATES FROM COURSES 
+                             GROUP BY COURSEID
+                             HAVING COUNT(*) > 1;
+  
+SELECT ENROLLMENTID,COUNT(*) AS DUPLICATES FROM ENROLLMENTS 
+                             GROUP BY ENROLLMENTID
+                             HAVING COUNT(*) > 1;
+```
+# Data Type Validation and Alteration
+Query 
+``` sql
+DESC ATTENDANCE;
+SET SQL_SAFE_UPDATE=0;
+UPDATE ATTENDANCE
+SET DATE=STR_TO_DATE(DATE,'%Y-%M-%D');
+ALTER TABLE ATTENDANCE MODIFY COLUMN DATE DATE;
+
+DESC ENROLLMENTS;
+ALTER TABLE ENROLLMENTS MODIFY YEAR YEAR;
+```
+# Analysis Process
+## Display all courses offered along with their department and instructor
+Query
+``` sql
+SELECT COURSENAME,DEPARTMENT,INSTRUCTOR FROM COURSES;
+```
+## Show the attendance records for a given student on a particular date
+Query
+``` sql
+SELECT* FROM ATTENDANCE;
+SELECT * FROM ATTENDANCE WHERE STUDENTID=1084 AND DATE='2022-09-26';
+```
+## List all enrollment records for the current year
+Query
+``` sql
+SELECT * FROM ENROLLMENTS WHERE YEAR=2019;
+```
+## Display all feedback submitted, ordered from newest to oldest
+Query
+``` sql
+SELECT * FROM FEEDBACK ORDER BY FEEDBACKDATE DESC LIMIT 10;
+```
+## Show each student's enrolled courses (Student Full Name + Course Name + Semester + Year)
+Query 
+``` sql
+SELECT A.SEMESTER,
+       A.YEAR,
+       A.STUDENTID,
+       A.COURSEID,
+       CONCAT(B.FIRSTNAME," ", B.LASTNAME) AS FULLNAME,
+       C.COURSENAME
+       FROM ENROLLMENTS AS A JOIN STUDENTS AS B ON  A.STUDENTID=B.STUDENTID 
+							 JOIN COURSES AS C ON A.COURSEID=C.COURSEID;
+```
+## Count how many students are enrolled in each course
+Query
+``` sql
+CREATE VIEW CONNECTIONTABLE AS(SELECT A.SEMESTER,
+       A.YEAR,
+       A.STUDENTID,
+       A.COURSEID,
+       CONCAT(B.FIRSTNAME," ", B.LASTNAME) AS FULLNAME,
+       C.COURSENAME
+       FROM ENROLLMENTS AS A JOIN STUDENTS AS B ON  A.STUDENTID=B.STUDENTID 
+							 JOIN COURSES AS C ON A.COURSEID=C.COURSEID);
+SELECT COUNT(STUDENTID)AS TOTAL_OF_STUDENTS ,COURSENAME FROM CONNECTIONTABLE GROUP BY  COURSENAME;
+```
+## Calculate the attendance percentage for each student in each course
+Query
+``` sql
+SELECT StudentID, CourseID,
+       (SUM(CASE WHEN AttendanceStatus='Present' THEN 1 ELSE 0 END) / COUNT(*)) * 100 AS ATTENDANCEPER
+FROM ATTENDANCE
+GROUP BY StudentID, CourseID HAVING ATTENDANCEPER > 60;
+```
+## Determine the most popular course (highest enrollment count)
+Query
+``` sql
+SELECT COURSEID,
+       COUNT(ENROLLMENTID) AS ENROLLMENTCOUNT 
+       FROM ENROLLMENTS 
+       GROUP BY COURSEID ORDER BY ENROLLMENTCOUNT DESC LIMIT 1;
+```
